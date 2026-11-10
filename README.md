@@ -41,8 +41,33 @@ ESCLATION REASON OVER AI HANDOFF:[It's told us what the major reasons for AI han
 VISUAL 2----------
 SUPPORT CHANNEL PURFORMANCE AS PER ISSUE CATAGORY:[It's told us issue catagory wise ai and ai human perfomance, in which catagory AI do the more work , that significantly indicated that if  the score of AI handled is higher means it's best for those issues , and for those catagory where the score is less there we need to do work with AI for performance improvments on those catagory issues]
 VISUAL 3----------
-PRE-HANDOFF TIME:[This indicates how much time AI spend before handoff as per the number of total tickets over the time
-when the time is over 12 mins then that's not a good sign because it's try to work that much of time but not able to resolve it.
+PRE-HANDOFF TIME WITH REASONS:[This indicates how much time AI spend before handoff as per the number of total tickets, and also for which reasons take the most of time, that give us a clear idea that time taken by AI, and which reasons AI take much time.]
+VISUAL 4----------
+AI HANDOFF COST WITH ISSUES AND COMPLEXITY:[Issues are as per complexity with respect to handoff percentage. That means which type of issues get more transferred from AI to HUMAN that percentage, in lagend cost also showing. that for the handoff how much cost spend]
+--------------------------------------------------------------------------------------------------------------------------
+Summery:
+This AI Performance & Handoff Analysis page provides a focused view of how effectively AI handles customer interactions and where human intervention becomes necessary. The page highlights key operational KPIs such as AI Workload, AI Resolution Speed, Human Resolution Speed, AI Escalation Volume, and AI Handoff Percentage, enabling stakeholders to evaluate AI efficiency, containment performance, and escalation trends across the support ecosystem.
+The supporting visuals analyze the primary drivers behind AI-to-human handoffs, support channel distribution across issue categories, handoff behavior by interaction duration, and escalation patterns by issue complexity. The analysis helps identify situations where AI performs effectively, as well as the categories, complexity levels, and escalation reasons that most frequently require human assistance. Overall, this page enables decision-makers to understand AI limitations, optimize containment strategies, reduce unnecessary escalations, and improve the balance between automation and human support while controlling operational costs.
+----------------------------------------------------------------------------------------------------------------------------
+Page 3---------------------------
+----------------------------------------------------
+CUSTOMER Experience & Service Quality
+Repeat Contract Hotspot MATRIX: [Which told us that repeat contract means for any issues 
+customers of different tiers are connected within 7days that percentage over issue catgory]
+Initial Vs Later Resolution Rate: [Which show the percentage from total ticket how much 
+percentages of tickets initialy resolved and how much late as per issues catagory]
+Product Performance: [how product performe As per repeat contract how it's sla, total volume wise, csat rate]
+Met SLA VS BEACHED SLA: [Product wise MET SLA AND BREACHED SLA PERCENTAGES]
+Customer exp matrix region wise: [ Regions as per tickets , resolution rate,repeat rate,
+csat with respect to customer tier]
+-----------------------------------
+SUMMARY:
+This Customer Experience & Service Quality page provides a comprehensive view of customer support outcomes by combining operational performance, service quality, and customer satisfaction metrics across products, customer tiers, and regions. The page highlights key indicators such as Repeat Contact Rate (RCR), First Contact Resolution (FCR), SLA Compliance, Customer Satisfaction (CSAT), and Support Ticket Volume, enabling stakeholders to evaluate the effectiveness of support operations and identify areas impacting customer experience.
+The supporting visuals uncover repeat contact hotspots across customer segments, compare first-contact resolution against later resolutions by issue category, assess SLA adherence by product, and analyze the relationship between support demand and repeat contact rates. The Customer Experience Matrix further consolidates regional performance by showing ticket volumes, resolution effectiveness, and customer satisfaction across customer tiers. Overall, this page helps decision-makers identify service quality gaps, reduce repeat contacts, improve resolution efficiency, strengthen SLA performance, and enhance the overall customer experience delivered by the support organization.
+------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
