@@ -52,13 +52,23 @@ The supporting visuals analyze the primary drivers behind AI-to-human handoffs, 
 Page 3---------------------------
 ----------------------------------------------------
 CUSTOMER Experience & Service Quality
-Repeat Contract Hotspot MATRIX: [Which told us that repeat contract means for any issues 
+Repeat Contract Hotspot MATRIX: Business Q: Which customer group contacts
+support repeactadly for particular issues? 
+[Which told us that repeat contract means for any issues 
 customers of different tiers are connected within 7days that percentage over issue catgory]
-Initial Vs Later Resolution Rate: [Which show the percentage from total ticket how much 
+Initial Vs Later Resolution Rate: Business Q: Which issue catagory have higher 
+percentage of tickets that are not resolved  during initial interaction?
+[Which show the percentage from total ticket how much 
 percentages of tickets initialy resolved and how much late as per issues catagory]
-Product Performance: [how product performe As per repeat contract how it's sla, total volume wise, csat rate]
-Met SLA VS BEACHED SLA: [Product wise MET SLA AND BREACHED SLA PERCENTAGES]
-Customer exp matrix region wise: [ Regions as per tickets , resolution rate,repeat rate,
+Product Performance:Business Q: Which Product generated more support ticket and 
+repeat customer contacts?
+[how product performe As per repeat contract how it's sla, total volume wise, csat rate]
+Met SLA VS BEACHED SLA:Business Q: Which product have meeting their SLA commitment , 
+and which products have higher percentaegs for SLA breaches? 
+[Product wise MET SLA AND BREACHED SLA PERCENTAGES]
+Customer exp matrix region wise:Business Q: How does support experience act differ
+as per cutomer tier and Regions?
+[ Regions as per tickets , resolution rate,repeat rate,
 csat with respect to customer tier]
 -----------------------------------
 SUMMARY:
